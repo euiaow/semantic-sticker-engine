@@ -1,0 +1,177 @@
+[
+ {
+  "emoji": "💰",
+  "file": "1f4b0.png",
+  "category": "money",
+  "ru": "деньги, миллион, прибыль, доход, заработок, богатство, выручка, капитал, инвестиции",
+  "en": "money, million, profit, income, earnings, wealth, revenue, capital"
+ },
+ {
+  "emoji": "📈",
+  "file": "1f4c8.png",
+  "category": "growth",
+  "ru": "рост, увеличение, кратный рост, масштабирование, вверх, показатели растут, динамика",
+  "en": "growth, increase, scaling, upward, metrics rising"
+ },
+ {
+  "emoji": "📉",
+  "file": "1f4c9.png",
+  "category": "failure",
+  "ru": "падение, спад, обвал, убытки, снижение, кризис, просадка",
+  "en": "decline, drop, crash, losses, downturn"
+ },
+ {
+  "emoji": "🔥",
+  "file": "1f525.png",
+  "category": "hype",
+  "ru": "огонь, круто, мощно, взрыв, хит, топ, ажиотаж, разрывает",
+  "en": "fire, hot, awesome, viral, hype"
+ },
+ {
+  "emoji": "😱",
+  "file": "1f631.png",
+  "category": "emotion_negative",
+  "ru": "страшно, ужас, шок, испуг, паника, кошмар, жутко",
+  "en": "scary, shock, horror, panic"
+ },
+ {
+  "emoji": "🤯",
+  "file": "1f92f.png",
+  "category": "surprise",
+  "ru": "взрыв мозга, поразительно, невероятно, не укладывается в голове, ошеломительно",
+  "en": "mind blown, incredible, unbelievable"
+ },
+ {
+  "emoji": "💡",
+  "file": "1f4a1.png",
+  "category": "idea",
+  "ru": "идея, придумал, озарение, инсайт, решение, догадка, задумка",
+  "en": "idea, insight, solution, realization"
+ },
+ {
+  "emoji": "⏰",
+  "file": "23f0.png",
+  "category": "time",
+  "ru": "время, срок, дедлайн, часы, успеть, опоздание, вовремя",
+  "en": "time, deadline, clock, on time"
+ },
+ {
+  "emoji": "🎯",
+  "file": "1f3af.png",
+  "category": "success",
+  "ru": "цель, точно в цель, попадание, фокус, результат, задача решена",
+  "en": "target, bullseye, focus, goal"
+ },
+ {
+  "emoji": "🚀",
+  "file": "1f680.png",
+  "category": "growth",
+  "ru": "запуск, старт, взлёт, ракета, быстрый рост, разгон, стартап",
+  "en": "launch, takeoff, rocket, rapid growth, startup"
+ },
+ {
+  "emoji": "🤔",
+  "file": "1f914.png",
+  "category": "think",
+  "ru": "думать, размышление, вопрос, сомнение, задуматься, непонятно",
+  "en": "thinking, doubt, question, pondering"
+ },
+ {
+  "emoji": "😂",
+  "file": "1f602.png",
+  "category": "emotion_positive",
+  "ru": "смешно, смех, ржака, юмор, шутка, угарно",
+  "en": "funny, laughing, joke, humor"
+ },
+ {
+  "emoji": "😍",
+  "file": "1f60d.png",
+  "category": "emotion_positive",
+  "ru": "любовь, восторг, обожаю, нравится, красота, влюбился",
+  "en": "love, adore, delight, beautiful"
+ },
+ {
+  "emoji": "😤",
+  "file": "1f624.png",
+  "category": "emotion_negative",
+  "ru": "злость, бесит, раздражение, возмущение, злюсь, достало",
+  "en": "angry, annoyed, frustrated"
+ },
+ {
+  "emoji": "🙏",
+  "file": "1f64f.png",
+  "category": "communication",
+  "ru": "спасибо, благодарность, просьба, пожалуйста, признателен",
+  "en": "thanks, gratitude, please, request"
+ },
+ {
+  "emoji": "👥",
+  "file": "1f465.png",
+  "category": "people",
+  "ru": "команда, люди, сотрудники, коллеги, партнёры, коллектив",
+  "en": "team, people, employees, colleagues"
+ },
+ {
+  "emoji": "🏆",
+  "file": "1f3c6.png",
+  "category": "success",
+  "ru": "победа, первое место, чемпион, награда, выиграли, успех",
+  "en": "victory, first place, champion, award"
+ },
+ {
+  "emoji": "⚡",
+  "file": "26a1.png",
+  "category": "hype",
+  "ru": "быстро, мгновенно, энергия, скорость, молниеносно, резко",
+  "en": "fast, instant, energy, speed"
+ },
+ {
+  "emoji": "📱",
+  "file": "1f4f1.png",
+  "category": "tech",
+  "ru": "телефон, смартфон, приложение, мобильный, экран, соцсети",
+  "en": "phone, smartphone, app, mobile"
+ },
+ {
+  "emoji": "💻",
+  "file": "1f4bb.png",
+  "category": "tech",
+  "ru": "ноутбук, компьютер, работа за компом, код, программа, онлайн",
+  "en": "laptop, computer, code, software"
+ },
+ {
+  "emoji": "📚",
+  "file": "1f4da.png",
+  "category": "learning",
+  "ru": "книги, учёба, обучение, знания, курс, образование, читать",
+  "en": "books, study, learning, knowledge, course"
+ },
+ {
+  "emoji": "⚠️",
+  "file": "26a0.png",
+  "category": "warning",
+  "ru": "внимание, осторожно, предупреждение, риск, опасность, важно",
+  "en": "warning, caution, risk, danger, attention"
+ },
+ {
+  "emoji": "🌍",
+  "file": "1f30d.png",
+  "category": "travel",
+  "ru": "мир, планета, весь мир, международный, глобально, страны",
+  "en": "world, planet, global, international"
+ },
+ {
+  "emoji": "🔪",
+  "file": "1f52a.png",
+  "category": "weapons",
+  "ru": "нож, лезвие, резать, порезать, острый предмет",
+  "en": "knife, blade, cut"
+ },
+ {
+  "emoji": "💊",
+  "file": "1f48a.png",
+  "category": "medical",
+  "ru": "таблетки, лекарство, лечение, врач, здоровье, аптека",
+  "en": "pills, medicine, treatment, health"
+ }
+]

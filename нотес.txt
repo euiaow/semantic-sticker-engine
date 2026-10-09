@@ -1,0 +1,59 @@
+cli.py
+
+"""
+def load_word_cues(path: Path) -> List[WordCue]:
+    """
+    Прочитать word_cues.json:
+        [{"start": 0.12, "end": 0.44, "word": "привет"}, ...]
+    Допускается также ключ "text" вместо "word". Тайминги — секунды.
+    """
+    raise NotImplementedError
+
+
+def load_zones(path: Optional[Path]) -> List[ForbiddenZone]:
+    """
+    Прочитать zones.json:
+        [{"t_start": 0.0, "t_end": 3.0, "kind": "header",
+          "rect": {"x": 0, "y": 0, "w": 1080, "h": 320}}, ...]
+    path is None -> [].
+    """
+    raise NotImplementedError
+
+
+def plan_to_json(placed: Sequence[PlacedSticker], path: Path) -> None:
+    """
+    Дамп плана в JSON — для глазной проверки и для регресс-сравнения.
+
+    Массив объектов в порядке t_start. Обязательные ключи (доп. разрешены):
+        t_start, t_end, t_anchor, emoji, asset_path, trigger_word,
+        trigger_word_index, phrase, score, category, x, y, size
+    """
+    raise NotImplementedError
+
+
+def burn_stickers(
+    video_in: Path,
+    video_out: Path,
+    placed: Sequence[PlacedSticker],
+    config: Optional[StickerConfig] = None,
+) -> None:
+    """
+    Выжечь стикеры в видео.
+
+    Требования:
+      * fps и длительность выхода совпадают со входом (± 1 кадр);
+      * аудиодорожка исходника сохранена (-c:a copy);
+      * ничего кроме стикеров не дорисовывается;
+      * контейнер mp4, H.264, yuv420p.
+    """
+    raise NotImplementedError
+
+
+def main(argv: Optional[Sequence[str]] = None) -> int:
+    """Точка входа. Возвращает код возврата процесса (0 — успех)."""
+    raise NotImplementedError
+
+
+if __name__ == "__main__":  # pragma: no cover
+    raise SystemExit(main())
+"""

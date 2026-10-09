@@ -1,0 +1,62 @@
+[
+  {
+    "t_start": 2.14,
+    "t_end": 3.69,
+    "t_anchor": 2.14,
+    "emoji": "📣",
+    "asset_path": "D:\\Telegram desktop\\project builidng\\stickers-outsource-package\\skeleton\\assets\\stickers\\1f4e3.png",
+    "trigger_word": "оказывается,",
+    "trigger_word_index": 7,
+    "phrase": "что оказывается,",
+    "score": 0.6526709794998169,
+    "category": "hype",
+    "x": 171,
+    "y": 19,
+    "size": 62
+  },
+  {
+    "t_start": 5.28,
+    "t_end": 6.83,
+    "t_anchor": 5.28,
+    "emoji": "🙏",
+    "asset_path": "D:\\Telegram desktop\\project builidng\\stickers-outsource-package\\skeleton\\assets\\stickers\\1f64f.png",
+    "trigger_word": "Слава",
+    "trigger_word_index": 11,
+    "phrase": "Слава богу,",
+    "score": 0.7791574597358704,
+    "category": "communication",
+    "x": 247,
+    "y": 19,
+    "size": 62
+  },
+  {
+    "t_start": 11.44,
+    "t_end": 12.989999999999998,
+    "t_anchor": 11.44,
+    "emoji": "👍",
+    "asset_path": "D:\\Telegram desktop\\project builidng\\stickers-outsource-package\\skeleton\\assets\\stickers\\1f44d.png",
+    "trigger_word": "серьёзно?",
+    "trigger_word_index": 25,
+    "phrase": "Не, а если серьёзно? Пока хорошее.",
+    "score": 0.5289866924285889,
+    "category": "success",
+    "x": 171,
+    "y": 19,
+    "size": 62
+  },
+  {
+    "t_start": 18.28,
+    "t_end": 19.830000000000002,
+    "t_anchor": 18.28,
+    "emoji": "🥳",
+    "asset_path": "D:\\Telegram desktop\\project builidng\\stickers-outsource-package\\skeleton\\assets\\stickers\\1f973.png",
+    "trigger_word": "возраст",
+    "trigger_word_index": 40,
+    "phrase": "новогоднюю прожарку? Вот если сложить возраст твоих партнёж, займём так,",
+    "score": 0.6805782914161682,
+    "category": "emotion_positive",
+    "x": 247,
+    "y": 19,
+    "size": 62
+  }
+]

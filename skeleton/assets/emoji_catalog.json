@@ -1,0 +1,1332 @@
+[
+ {
+  "emoji": "💰",
+  "file": "1f4b0.png",
+  "category": "money",
+  "ru": "деньги, миллион, прибыль, доход, заработок, богатство, выручка, капитал, инвестиции",
+  "en": "money, million, profit, income, earnings, wealth, revenue, capital"
+ },
+ {
+  "emoji": "📈",
+  "file": "1f4c8.png",
+  "category": "growth",
+  "ru": "рост, увеличение, кратный рост, масштабирование, вверх, показатели растут, динамика",
+  "en": "growth, increase, scaling, upward, metrics rising"
+ },
+ {
+  "emoji": "📉",
+  "file": "1f4c9.png",
+  "category": "failure",
+  "ru": "падение, спад, обвал, убытки, снижение, кризис, просадка",
+  "en": "decline, drop, crash, losses, downturn"
+ },
+ {
+  "emoji": "🔥",
+  "file": "1f525.png",
+  "category": "hype",
+  "ru": "огонь, круто, мощно, взрыв, хит, топ, ажиотаж, разрывает",
+  "en": "fire, hot, awesome, viral, hype"
+ },
+ {
+  "emoji": "😱",
+  "file": "1f631.png",
+  "category": "emotion_negative",
+  "ru": "страшно, ужас, шок, испуг, паника, кошмар, жутко",
+  "en": "scary, shock, horror, panic"
+ },
+ {
+  "emoji": "🤯",
+  "file": "1f92f.png",
+  "category": "surprise",
+  "ru": "взрыв мозга, поразительно, невероятно, не укладывается в голове, ошеломительно",
+  "en": "mind blown, incredible, unbelievable"
+ },
+ {
+  "emoji": "💡",
+  "file": "1f4a1.png",
+  "category": "idea",
+  "ru": "идея, сделал открытие, озарение, инсайт, догадка, задумка",
+  "en": "idea, insight, solution, realization"
+ },
+ {
+  "emoji": "⏰",
+  "file": "23f0.png",
+  "category": "time",
+  "ru": "время, срок, дедлайн, часы, успеть, опоздание, вовремя",
+  "en": "time, deadline, clock, on time"
+ },
+ {
+  "emoji": "🎯",
+  "file": "1f3af.png",
+  "category": "success",
+  "ru": "цель, попадание, в яблочко, фокус, результат, задача решена",
+  "en": "target, bullseye, focus, goal"
+ },
+ {
+  "emoji": "🚀",
+  "file": "1f680.png",
+  "category": "growth",
+  "ru": "запуск, старт, взлёт, ракета, быстрый рост, разгон, стартап",
+  "en": "launch, takeoff, rocket, rapid growth, startup"
+ },
+ {
+  "emoji": "🤔",
+  "file": "1f914.png",
+  "category": "think",
+  "ru": "почесал подбородок, задумался, размышляет, взвешивает варианты, сомневается, прикидывает",
+  "en": "thinking, doubt, question, pondering"
+ },
+ {
+  "emoji": "😂",
+  "file": "1f602.png",
+  "category": "emotion_positive",
+  "ru": "смешно, смех, ржака, юмор, шутка, угарно",
+  "en": "funny, laughing, joke, humor"
+ },
+ {
+  "emoji": "😍",
+  "file": "1f60d.png",
+  "category": "emotion_positive",
+  "ru": "любовь, восторг, обожаю, нравится, красота, влюбился",
+  "en": "love, adore, delight, beautiful"
+ },
+ {
+  "emoji": "😤",
+  "file": "1f624.png",
+  "category": "emotion_negative",
+  "ru": "злость, бесит, раздражение, возмущение, злюсь, достало",
+  "en": "angry, annoyed, frustrated"
+ },
+ {
+  "emoji": "🙏",
+  "file": "1f64f.png",
+  "category": "communication",
+  "ru": "спасибо, благодарность, просьба, пожалуйста, признателен",
+  "en": "thanks, gratitude, please, request"
+ },
+ {
+  "emoji": "👥",
+  "file": "1f465.png",
+  "category": "people",
+  "ru": "команда, люди, сотрудники, коллеги, партнёры, коллектив",
+  "en": "team, people, employees, colleagues"
+ },
+ {
+  "emoji": "🏆",
+  "file": "1f3c6.png",
+  "category": "success",
+  "ru": "победа, первое место, чемпион, награда, выиграли, успех",
+  "en": "victory, first place, champion, award"
+ },
+ {
+  "emoji": "⚡",
+  "file": "26a1.png",
+  "category": "hype",
+  "ru": "быстро, мгновенно, энергия, скорость, молниеносно, резко",
+  "en": "fast, instant, energy, speed"
+ },
+ {
+  "emoji": "📱",
+  "file": "1f4f1.png",
+  "category": "tech",
+  "ru": "телефон, смартфон, приложение, мобильный, экран, соцсети",
+  "en": "phone, smartphone, app, mobile"
+ },
+ {
+  "emoji": "💻",
+  "file": "1f4bb.png",
+  "category": "tech",
+  "ru": "ноутбук, компьютер, работа за компом, код, программа, онлайн",
+  "en": "laptop, computer, code, software"
+ },
+ {
+  "emoji": "📚",
+  "file": "1f4da.png",
+  "category": "learning",
+  "ru": "книги, учёба, обучение, знания, курс, образование, читать",
+  "en": "books, study, learning, knowledge, course"
+ },
+ {
+  "emoji": "⚠️",
+  "file": "26a0.png",
+  "category": "warning",
+  "ru": "осторожно, предупреждение, риск, опасность, угроза, авария, беда",
+  "en": "warning, caution, risk, danger, attention"
+ },
+ {
+  "emoji": "🌍",
+  "file": "1f30d.png",
+  "category": "travel",
+  "ru": "мир, планета, весь мир, международный, глобально, страны",
+  "en": "world, planet, global, international"
+ },
+ {
+  "emoji": "🔪",
+  "file": "1f52a.png",
+  "category": "weapons",
+  "ru": "нож, лезвие, резать, порезать, острый предмет",
+  "en": "knife, blade, cut"
+ },
+ {
+  "emoji": "💊",
+  "file": "1f48a.png",
+  "category": "medical",
+  "ru": "таблетки, лекарство, лечение, врач, здоровье, аптека",
+  "en": "pills, medicine, treatment, health"
+ },
+ {
+  "emoji": "💵",
+  "file": "1f4b5.png",
+  "category": "money",
+  "ru": "доллары, наличные, купюры, деньги, бабки, кэш, зарплата",
+  "en": "dollars, cash, banknotes, salary"
+ },
+ {
+  "emoji": "💸",
+  "file": "1f4b8.png",
+  "category": "money",
+  "ru": "деньги улетают, траты, расходы, потратил, утечка денег, транжирство",
+  "en": "money flying, spending, expenses, wasting money"
+ },
+ {
+  "emoji": "🤑",
+  "file": "1f911.png",
+  "category": "money",
+  "ru": "жадность, деньги в глазах, выгодно, нажива, кэш, барыш",
+  "en": "greedy, money face, profit, cash grab"
+ },
+ {
+  "emoji": "💳",
+  "file": "1f4b3.png",
+  "category": "money",
+  "ru": "карта, оплата, банковская карта, платёж, покупка, безнал",
+  "en": "card, payment, credit card, cashless"
+ },
+ {
+  "emoji": "🏦",
+  "file": "1f3e6.png",
+  "category": "money",
+  "ru": "банк, вклад, кредит, финансы, депозит, ипотека",
+  "en": "bank, deposit, finance, loan"
+ },
+ {
+  "emoji": "🪙",
+  "file": "1fa99.png",
+  "category": "money",
+  "ru": "монета, монетка, крипта, токен, мелочь, актив",
+  "en": "coin, crypto, token, asset"
+ },
+ {
+  "emoji": "💎",
+  "file": "1f48e.png",
+  "category": "money",
+  "ru": "бриллиант, роскошь, ценность, драгоценность, премиум, элита",
+  "en": "diamond, luxury, premium, elite"
+ },
+ {
+  "emoji": "🌱",
+  "file": "1f331.png",
+  "category": "growth",
+  "ru": "росток, начало, старт, развитие, прорастает, зарождение",
+  "en": "sprout, growth, start, emerging"
+ },
+ {
+  "emoji": "⬆️",
+  "file": "2b06.png",
+  "category": "growth",
+  "ru": "вверх, рост, повышение, увеличение, направление вверх",
+  "en": "up, rising, increase, upward"
+ },
+ {
+  "emoji": "↗️",
+  "file": "2197.png",
+  "category": "growth",
+  "ru": "вверх-вправо, положительная динамика, тренд вверх, восходящий график, движение к цели",
+  "en": "trend up, upward, positive momentum"
+ },
+ {
+  "emoji": "📊",
+  "file": "1f4ca.png",
+  "category": "growth",
+  "ru": "статистика, график, аналитика, показатели, диаграмма, метрики",
+  "en": "chart, statistics, analytics, metrics"
+ },
+ {
+  "emoji": "🧗",
+  "file": "1f9d7.png",
+  "category": "growth",
+  "ru": "подъём, преодоление, восхождение, карабкаться, путь наверх",
+  "en": "climbing, progress, uphill effort"
+ },
+ {
+  "emoji": "🏗️",
+  "file": "1f3d7.png",
+  "category": "growth",
+  "ru": "стройка, строительство, развитие, масштаб, возводим",
+  "en": "construction, building, scaling up"
+ },
+ {
+  "emoji": "🌳",
+  "file": "1f333.png",
+  "category": "growth",
+  "ru": "дерево, развитие, рост из малого, крепкий результат, зрелость",
+  "en": "tree, growth result, maturity"
+ },
+ {
+  "emoji": "🎉",
+  "file": "1f389.png",
+  "category": "hype",
+  "ru": "праздник, вечеринка, ура, конфетти, событие, отмечаем",
+  "en": "party, celebration, confetti, cheers"
+ },
+ {
+  "emoji": "🎊",
+  "file": "1f38a.png",
+  "category": "hype",
+  "ru": "конфетти, торжество, праздник, ура, шум и веселье",
+  "en": "confetti, celebration, festivity"
+ },
+ {
+  "emoji": "✨",
+  "file": "2728.png",
+  "category": "hype",
+  "ru": "блеск, магия, вау, искры, красиво, эффектно",
+  "en": "sparkles, magic, wow, dazzling"
+ },
+ {
+  "emoji": "🔝",
+  "file": "1f51d.png",
+  "category": "hype",
+  "ru": "топ, лучшее, номер один, топчик, на вершине",
+  "en": "top, best, number one, on top"
+ },
+ {
+  "emoji": "💥",
+  "file": "1f4a5.png",
+  "category": "hype",
+  "ru": "взрыв, бум, мощно, ударно, сенсация, бомба",
+  "en": "explosion, boom, sensation, impact"
+ },
+ {
+  "emoji": "🎢",
+  "file": "1f3a2.png",
+  "category": "hype",
+  "ru": "американские горки, адреналин, эмоции, экшн, качели событий",
+  "en": "roller coaster, adrenaline, wild ride"
+ },
+ {
+  "emoji": "📣",
+  "file": "1f4e3.png",
+  "category": "hype",
+  "ru": "объявление, анонс, громко, внимание всем, рупор",
+  "en": "announcement, loudspeaker, shoutout"
+ },
+ {
+  "emoji": "🕺",
+  "file": "1f57a.png",
+  "category": "hype",
+  "ru": "танцы, вечеринка, кайф, движ, веселье",
+  "en": "dancing, party vibe, fun"
+ },
+ {
+  "emoji": "😊",
+  "file": "1f60a.png",
+  "category": "emotion_positive",
+  "ru": "радость, улыбка, довольный, счастье, тепло, приятно",
+  "en": "happy, smile, joy, warmth"
+ },
+ {
+  "emoji": "😁",
+  "file": "1f601.png",
+  "category": "emotion_positive",
+  "ru": "широкая улыбка, счастлив, кайф, довольство, ура",
+  "en": "grinning, happy, delighted"
+ },
+ {
+  "emoji": "🥰",
+  "file": "1f970.png",
+  "category": "emotion_positive",
+  "ru": "нежность, любовь, умиление, обожание, тепло на душе",
+  "en": "adoring, love, affection, sweet"
+ },
+ {
+  "emoji": "😎",
+  "file": "1f60e.png",
+  "category": "emotion_positive",
+  "ru": "круто, уверенность, стиль, крутой, невозмутимость",
+  "en": "cool, confident, stylish, chill"
+ },
+ {
+  "emoji": "🤩",
+  "file": "1f929.png",
+  "category": "emotion_positive",
+  "ru": "восхищение, звёзды в глазах, восторг, впечатлён, вау",
+  "en": "star struck, amazed, thrilled"
+ },
+ {
+  "emoji": "🙌",
+  "file": "1f64c.png",
+  "category": "emotion_positive",
+  "ru": "ура, победа, руки вверх, поддержка, отлично, празднуем",
+  "en": "hooray, hands up, celebration, praise"
+ },
+ {
+  "emoji": "👏",
+  "file": "1f44f.png",
+  "category": "emotion_positive",
+  "ru": "аплодисменты, браво, молодец, поддержка, восхищение",
+  "en": "applause, well done, bravo"
+ },
+ {
+  "emoji": "💪",
+  "file": "1f4aa.png",
+  "category": "emotion_positive",
+  "ru": "сила, мощь, могу, справлюсь, старания, уверенность в себе",
+  "en": "strength, power, can do, determination"
+ },
+ {
+  "emoji": "😌",
+  "file": "1f60c.png",
+  "category": "emotion_positive",
+  "ru": "спокойствие, умиротворение, расслабленность, довольство, лёгкость",
+  "en": "relieved, calm, content, at ease"
+ },
+ {
+  "emoji": "🥳",
+  "file": "1f973.png",
+  "category": "emotion_positive",
+  "ru": "праздник, вечеринка, ура, отмечаем, день рождения",
+  "en": "party face, celebrating, birthday"
+ },
+ {
+  "emoji": "😢",
+  "file": "1f622.png",
+  "category": "emotion_negative",
+  "ru": "грусть, слёзы, плачу, печаль, расстроен, обидно",
+  "en": "sad, crying, upset, tearful"
+ },
+ {
+  "emoji": "😭",
+  "file": "1f62d.png",
+  "category": "emotion_negative",
+  "ru": "рыдаю, сильный плач, горе, отчаяние, разрыдался",
+  "en": "sobbing, crying hard, heartbroken"
+ },
+ {
+  "emoji": "😡",
+  "file": "1f621.png",
+  "category": "emotion_negative",
+  "ru": "ярость, бешенство, злость, взбешён, вне себя",
+  "en": "furious, rage, angry, mad"
+ },
+ {
+  "emoji": "😰",
+  "file": "1f630.png",
+  "category": "emotion_negative",
+  "ru": "тревога, страх, волнение, паника, холодный пот, нервничаю",
+  "en": "anxious, worried, fear, nervous"
+ },
+ {
+  "emoji": "😔",
+  "file": "1f614.png",
+  "category": "emotion_negative",
+  "ru": "уныние, разочарование, грусть, подавленность, тоска",
+  "en": "dejected, disappointed, gloomy"
+ },
+ {
+  "emoji": "😩",
+  "file": "1f629.png",
+  "category": "emotion_negative",
+  "ru": "усталость, изнеможение, стон, устал, вымотан",
+  "en": "exhausted, weary, worn out"
+ },
+ {
+  "emoji": "🤢",
+  "file": "1f922.png",
+  "category": "emotion_negative",
+  "ru": "тошнит, отвращение, противно, фу, неприятно",
+  "en": "disgust, nauseous, gross"
+ },
+ {
+  "emoji": "😞",
+  "file": "1f61e.png",
+  "category": "emotion_negative",
+  "ru": "разочарование, грусть, неудача, огорчение, обидно вышло",
+  "en": "disappointed, sad, let down"
+ },
+ {
+  "emoji": "😲",
+  "file": "1f632.png",
+  "category": "surprise",
+  "ru": "удивление, шок, изумление, ого, поразило",
+  "en": "astonished, shocked, amazed"
+ },
+ {
+  "emoji": "😳",
+  "file": "1f633.png",
+  "category": "surprise",
+  "ru": "смущение, удивление, неловко, ого, растерялся",
+  "en": "flushed, surprised, embarrassed"
+ },
+ {
+  "emoji": "🫢",
+  "file": "1fae2.png",
+  "category": "surprise",
+  "ru": "прикрыл рот рукой, шок, удивление, ого, вот это да",
+  "en": "hand over mouth, surprised, shocked"
+ },
+ {
+  "emoji": "❗",
+  "file": "2757.png",
+  "category": "surprise",
+  "ru": "внезапность, неожиданность, ого, восклицательный знак, сюрприз, тревога",
+  "en": "exclamation, sudden, important"
+ },
+ {
+  "emoji": "🧐",
+  "file": "1f9d0.png",
+  "category": "think",
+  "ru": "изучаю, присматриваюсь, любопытство, анализ, разбираюсь",
+  "en": "scrutinizing, curious, examining"
+ },
+ {
+  "emoji": "🙄",
+  "file": "1f644.png",
+  "category": "think",
+  "ru": "закатил глаза, скепсис, недовольство, ага сейчас",
+  "en": "eye roll, skeptical, unimpressed"
+ },
+ {
+  "emoji": "🧠",
+  "file": "1f9e0.png",
+  "category": "think",
+  "ru": "мозг, интеллект, ум, мышление, разум, логика",
+  "en": "brain, intellect, mind, logic"
+ },
+ {
+  "emoji": "⌛",
+  "file": "231b.png",
+  "category": "time",
+  "ru": "песочные часы, время вышло, дедлайн наступил, время истекло, всё, пора",
+  "en": "hourglass done, time's up, deadline"
+ },
+ {
+  "emoji": "⏳",
+  "file": "23f3.png",
+  "category": "time",
+  "ru": "песочные часы, время идёт, ожидание, ещё есть время, тикает",
+  "en": "hourglass flowing, waiting, time passing"
+ },
+ {
+  "emoji": "🕐",
+  "file": "1f550.png",
+  "category": "time",
+  "ru": "час, время, часы показывают час, ровно час, время встречи",
+  "en": "one o'clock, time, hour"
+ },
+ {
+  "emoji": "📅",
+  "file": "1f4c5.png",
+  "category": "time",
+  "ru": "календарь, дата, расписание, план на дату, встреча",
+  "en": "calendar, date, schedule, appointment"
+ },
+ {
+  "emoji": "🗓️",
+  "file": "1f5d3.png",
+  "category": "time",
+  "ru": "календарь, планирование, расписание, дедлайн, график",
+  "en": "spiral calendar, planning, timeline"
+ },
+ {
+  "emoji": "⏱️",
+  "file": "23f1.png",
+  "category": "time",
+  "ru": "секундомер, засекаем время, скорость, таймер, на счёт",
+  "en": "stopwatch, timer, timing"
+ },
+ {
+  "emoji": "🔔",
+  "file": "1f514.png",
+  "category": "time",
+  "ru": "напоминание, звонок, уведомление, будильник, не забыть",
+  "en": "reminder, bell, notification, alert"
+ },
+ {
+  "emoji": "💼",
+  "file": "1f4bc.png",
+  "category": "work",
+  "ru": "работа, бизнес, портфель, карьера, офис, деловая встреча",
+  "en": "briefcase, business, career, office"
+ },
+ {
+  "emoji": "📝",
+  "file": "1f4dd.png",
+  "category": "work",
+  "ru": "заметка, план, задача, записать, список дел, конспект",
+  "en": "note, task, to-do, memo"
+ },
+ {
+  "emoji": "✅",
+  "file": "2705.png",
+  "category": "work",
+  "ru": "наконец готово, одобрено, галочка, задача закрыта, утверждено",
+  "en": "done, checkmark, completed, approved"
+ },
+ {
+  "emoji": "🗂️",
+  "file": "1f5c2.png",
+  "category": "work",
+  "ru": "организация, папки, документы, порядок, структура, архив",
+  "en": "organization, files, folders, archive"
+ },
+ {
+  "emoji": "📌",
+  "file": "1f4cc.png",
+  "category": "work",
+  "ru": "закреплено, отметил, пин, булавка, кнопка, флажок, геометка",
+  "en": "pinned, important, marker, highlight"
+ },
+ {
+  "emoji": "🖇️",
+  "file": "1f587.png",
+  "category": "work",
+  "ru": "скрепка, связка, объединение документов, вложение, прикреплённый файл",
+  "en": "paperclip, attachment, linked files"
+ },
+ {
+  "emoji": "🧑‍💻",
+  "file": "1f9d1-200d-1f4bb.png",
+  "category": "work",
+  "ru": "работа за компьютером, разработчик, удалёнка, программирование, кодинг",
+  "en": "coder, working at computer, remote work"
+ },
+ {
+  "emoji": "🤝",
+  "file": "1f91d.png",
+  "category": "work",
+  "ru": "рукопожатие, сделка, партнёрство, договорились, сотрудничество",
+  "en": "handshake, deal, partnership, agreement"
+ },
+ {
+  "emoji": "🖥️",
+  "file": "1f5a5.png",
+  "category": "tech",
+  "ru": "компьютер, монитор, рабочее место, десктоп, экран",
+  "en": "desktop computer, monitor, workstation"
+ },
+ {
+  "emoji": "🤖",
+  "file": "1f916.png",
+  "category": "tech",
+  "ru": "робот, ИИ, автоматизация, технологии, бот, нейросеть",
+  "en": "robot, AI, automation, bot"
+ },
+ {
+  "emoji": "⚙️",
+  "file": "2699.png",
+  "category": "tech",
+  "ru": "настройки, механизм, шестерёнка, процесс, система, наладка",
+  "en": "gear, settings, mechanism, process"
+ },
+ {
+  "emoji": "🔌",
+  "file": "1f50c.png",
+  "category": "tech",
+  "ru": "подключение, розетка, зарядка, электричество, питание",
+  "en": "plug, connection, power, charging"
+ },
+ {
+  "emoji": "📡",
+  "file": "1f4e1.png",
+  "category": "tech",
+  "ru": "связь, сигнал, антенна, передача данных, сеть, покрытие",
+  "en": "antenna, signal, network, transmission"
+ },
+ {
+  "emoji": "💾",
+  "file": "1f4be.png",
+  "category": "tech",
+  "ru": "сохранить, данные, диск, бэкап, память, файл",
+  "en": "save, disk, data, memory, backup"
+ },
+ {
+  "emoji": "🔧",
+  "file": "1f527.png",
+  "category": "tech",
+  "ru": "инструмент, гаечный ключ, настройка, ремонт, техподдержка",
+  "en": "wrench, tool, fix, maintenance"
+ },
+ {
+  "emoji": "🍕",
+  "file": "1f355.png",
+  "category": "food",
+  "ru": "пицца, еда, перекус, вкусно, ужин",
+  "en": "pizza, food, snack, dinner"
+ },
+ {
+  "emoji": "🍔",
+  "file": "1f354.png",
+  "category": "food",
+  "ru": "бургер, фастфуд, еда, перекус, обед",
+  "en": "burger, fast food, meal"
+ },
+ {
+  "emoji": "☕",
+  "file": "2615.png",
+  "category": "food",
+  "ru": "кофе, кофейный перерыв, бодрость, утро, чашка кофе",
+  "en": "coffee, break, energy, morning"
+ },
+ {
+  "emoji": "🍎",
+  "file": "1f34e.png",
+  "category": "food",
+  "ru": "яблоко, фрукт, здоровое питание, полезно, витамины",
+  "en": "apple, fruit, healthy eating"
+ },
+ {
+  "emoji": "🍫",
+  "file": "1f36b.png",
+  "category": "food",
+  "ru": "шоколад, сладкое, десерт, лакомство, награда себе",
+  "en": "chocolate, sweet, dessert, treat"
+ },
+ {
+  "emoji": "🍰",
+  "file": "1f370.png",
+  "category": "food",
+  "ru": "торт, десерт, праздник, сладкое, угощение",
+  "en": "cake, dessert, celebration, treat"
+ },
+ {
+  "emoji": "🍷",
+  "file": "1f377.png",
+  "category": "food",
+  "ru": "вино, бокал, отдых вечером, праздник, ужин",
+  "en": "wine, glass, evening, dinner"
+ },
+ {
+  "emoji": "🍺",
+  "file": "1f37a.png",
+  "category": "food",
+  "ru": "пиво, кружка, вечеринка, отдых, встреча с друзьями",
+  "en": "beer, party, relax, hangout"
+ },
+ {
+  "emoji": "🥗",
+  "file": "1f957.png",
+  "category": "food",
+  "ru": "салат, здоровое питание, диета, полезная еда, лёгкий обед",
+  "en": "salad, healthy eating, diet, light meal"
+ },
+ {
+  "emoji": "🍩",
+  "file": "1f369.png",
+  "category": "food",
+  "ru": "пончик, сладость, перекус, вкусняшка, кофе-брейк",
+  "en": "donut, sweet snack, treat"
+ },
+ {
+  "emoji": "✈️",
+  "file": "2708.png",
+  "category": "travel",
+  "ru": "самолёт, полёт, путешествие, авиабилет, командировка",
+  "en": "airplane, flight, travel, trip"
+ },
+ {
+  "emoji": "🌎",
+  "file": "1f30e.png",
+  "category": "travel",
+  "ru": "земля, глобус, планета, мир, континенты",
+  "en": "earth, globe, world, planet"
+ },
+ {
+  "emoji": "🗺️",
+  "file": "1f5fa.png",
+  "category": "travel",
+  "ru": "карта, маршрут, путешествие, план поездки, направление",
+  "en": "map, route, trip, destination"
+ },
+ {
+  "emoji": "🏝️",
+  "file": "1f3dd.png",
+  "category": "travel",
+  "ru": "остров, отдых, пляж, отпуск, тропики",
+  "en": "island, vacation, beach, tropics"
+ },
+ {
+  "emoji": "🧳",
+  "file": "1f9f3.png",
+  "category": "travel",
+  "ru": "чемодан, багаж, поездка, сборы в дорогу, отпуск",
+  "en": "suitcase, luggage, trip, packing"
+ },
+ {
+  "emoji": "🚗",
+  "file": "1f697.png",
+  "category": "travel",
+  "ru": "машина, автомобиль, поездка, дорога, за рулём",
+  "en": "car, drive, road, ride"
+ },
+ {
+  "emoji": "🚆",
+  "file": "1f686.png",
+  "category": "travel",
+  "ru": "поезд, железная дорога, путешествие, скорость, вокзал",
+  "en": "train, travel, speed, railway"
+ },
+ {
+  "emoji": "🏔️",
+  "file": "1f3d4.png",
+  "category": "travel",
+  "ru": "горы, вершина, поход, природа, восхождение",
+  "en": "mountain, peak, hiking, expedition"
+ },
+ {
+  "emoji": "⚽",
+  "file": "26bd.png",
+  "category": "sport",
+  "ru": "футбол, мяч, спорт, игра, гол, матч",
+  "en": "soccer, ball, game, match"
+ },
+ {
+  "emoji": "🏀",
+  "file": "1f3c0.png",
+  "category": "sport",
+  "ru": "баскетбол, мяч, спорт, игра, бросок",
+  "en": "basketball, sport, game, shot"
+ },
+ {
+  "emoji": "🏋️",
+  "file": "1f3cb.png",
+  "category": "sport",
+  "ru": "тренировка, зал, силовая, качалка, спорт, штанга",
+  "en": "gym, workout, weightlifting, training"
+ },
+ {
+  "emoji": "🏃",
+  "file": "1f3c3.png",
+  "category": "sport",
+  "ru": "бег, тренировка, движение, спорт, марафон, пробежка",
+  "en": "running, workout, marathon, jog"
+ },
+ {
+  "emoji": "🥇",
+  "file": "1f947.png",
+  "category": "sport",
+  "ru": "золотая медаль, первое место, победа, чемпион, лучший результат",
+  "en": "gold medal, first place, champion"
+ },
+ {
+  "emoji": "🚴",
+  "file": "1f6b4.png",
+  "category": "sport",
+  "ru": "велосипед, катание, спорт, тренировка, велопрогулка",
+  "en": "cycling, sport, workout, bike ride"
+ },
+ {
+  "emoji": "🧘",
+  "file": "1f9d8.png",
+  "category": "sport",
+  "ru": "йога, медитация, баланс, растяжка, спокойствие, осознанность",
+  "en": "yoga, meditation, balance, mindfulness"
+ },
+ {
+  "emoji": "⛹️",
+  "file": "26f9.png",
+  "category": "sport",
+  "ru": "баскетбол, игра с мячом, спорт, движение, тренировка",
+  "en": "basketball player, sport, action"
+ },
+ {
+  "emoji": "🌲",
+  "file": "1f332.png",
+  "category": "nature",
+  "ru": "ёлка, дерево, лес, природа, вечнозелёное, свежий воздух",
+  "en": "evergreen tree, forest, nature"
+ },
+ {
+  "emoji": "🌸",
+  "file": "1f338.png",
+  "category": "nature",
+  "ru": "цветение, весна, цветок, нежность, красота, пробуждение",
+  "en": "blossom, spring, flower, bloom"
+ },
+ {
+  "emoji": "🌞",
+  "file": "1f31e.png",
+  "category": "nature",
+  "ru": "солнце, тепло, ясный день, позитив, летнее настроение",
+  "en": "sun, warmth, sunny day, summer"
+ },
+ {
+  "emoji": "🌧️",
+  "file": "1f327.png",
+  "category": "nature",
+  "ru": "дождь, непогода, пасмурно, тучи, ненастье",
+  "en": "rain, cloudy weather, storm"
+ },
+ {
+  "emoji": "🌈",
+  "file": "1f308.png",
+  "category": "nature",
+  "ru": "радуга, надежда, разнообразие, после дождя, чудо",
+  "en": "rainbow, hope, diversity, wonder"
+ },
+ {
+  "emoji": "🐝",
+  "file": "1f41d.png",
+  "category": "nature",
+  "ru": "пчела, трудолюбие, работа, продуктивность, жужжание",
+  "en": "bee, hard work, productivity, busy"
+ },
+ {
+  "emoji": "🦋",
+  "file": "1f98b.png",
+  "category": "nature",
+  "ru": "бабочка, лёгкость, трансформация, красота, перемены",
+  "en": "butterfly, transformation, beauty, change"
+ },
+ {
+  "emoji": "🌊",
+  "file": "1f30a.png",
+  "category": "nature",
+  "ru": "волна, море, стихия, движение, поток, мощь природы",
+  "en": "wave, ocean, flow, force of nature"
+ },
+ {
+  "emoji": "🧑",
+  "file": "1f9d1.png",
+  "category": "people",
+  "ru": "человек, персона, пользователь, кто-то, личность",
+  "en": "person, individual, someone"
+ },
+ {
+  "emoji": "🙋",
+  "file": "1f64b.png",
+  "category": "people",
+  "ru": "поднял руку, я, инициатива, вызвался, есть желающий",
+  "en": "raising hand, volunteering, question"
+ },
+ {
+  "emoji": "👤",
+  "file": "1f464.png",
+  "category": "people",
+  "ru": "силуэт, пользователь, персона, профиль, аккаунт",
+  "en": "silhouette, user, profile, account"
+ },
+ {
+  "emoji": "🧑‍🤝‍🧑",
+  "file": "1f9d1-200d-1f91d-200d-1f9d1.png",
+  "category": "people",
+  "ru": "партнёрство, люди вместе, команда, связь, объединение",
+  "en": "people holding hands, partnership, unity"
+ },
+ {
+  "emoji": "👋",
+  "file": "1f44b.png",
+  "category": "people",
+  "ru": "привет, приветствие, знакомство, пока, здравствуйте",
+  "en": "wave, hello, greeting, goodbye"
+ },
+ {
+  "emoji": "🫂",
+  "file": "1fac2.png",
+  "category": "people",
+  "ru": "объятия, поддержка, забота, вместе, тепло отношений",
+  "en": "hug, support, care, together"
+ },
+ {
+  "emoji": "💬",
+  "file": "1f4ac.png",
+  "category": "communication",
+  "ru": "сообщение, комментарий, отзыв",
+  "en": "chat, message, dialogue, comment"
+ },
+ {
+  "emoji": "📢",
+  "file": "1f4e2.png",
+  "category": "communication",
+  "ru": "объявление, громкая связь, анонс, внимание, новость для всех",
+  "en": "announcement, loudspeaker, notice"
+ },
+ {
+  "emoji": "📞",
+  "file": "1f4de.png",
+  "category": "communication",
+  "ru": "звонок, телефонный разговор, связь, позвонить, на созвоне",
+  "en": "phone call, contact, ringing"
+ },
+ {
+  "emoji": "🗣️",
+  "file": "1f5e3.png",
+  "category": "communication",
+  "ru": "говорит, речь, выступление, обращение к аудитории, спикер",
+  "en": "speaking, voice, talking, speech"
+ },
+ {
+  "emoji": "📧",
+  "file": "1f4e7.png",
+  "category": "communication",
+  "ru": "email, письмо, почта, рассылка, деловая переписка",
+  "en": "email, message, newsletter"
+ },
+ {
+  "emoji": "🤳",
+  "file": "1f933.png",
+  "category": "communication",
+  "ru": "селфи, съёмка, соцсети, контент, сторис",
+  "en": "selfie, content, social media"
+ },
+ {
+  "emoji": "🚨",
+  "file": "1f6a8.png",
+  "category": "warning",
+  "ru": "тревога, сирена, опасность, срочно, экстренная ситуация",
+  "en": "alarm, siren, danger, urgent"
+ },
+ {
+  "emoji": "🛑",
+  "file": "1f6d1.png",
+  "category": "warning",
+  "ru": "стоп, остановка, запрет, прекратить, стоп-сигнал",
+  "en": "stop, halt, forbidden, sign"
+ },
+ {
+  "emoji": "❌",
+  "file": "274c.png",
+  "category": "warning",
+  "ru": "ошибка, неправильно, отмена",
+  "en": "cross mark, wrong, cancel, no"
+ },
+ {
+  "emoji": "🚫",
+  "file": "1f6ab.png",
+  "category": "warning",
+  "ru": "запрещено, нельзя, блокировка, запрет, ограничение",
+  "en": "prohibited, not allowed, banned"
+ },
+ {
+  "emoji": "⛔",
+  "file": "26d4.png",
+  "category": "warning",
+  "ru": "въезд запрещён, стоп, ограничение, закрыто, доступ закрыт",
+  "en": "no entry, restriction, closed"
+ },
+ {
+  "emoji": "🥂",
+  "file": "1f942.png",
+  "category": "success",
+  "ru": "тост, празднование успеха, поздравляю, ура, за победу",
+  "en": "toast, celebrating success, cheers"
+ },
+ {
+  "emoji": "👍",
+  "file": "1f44d.png",
+  "category": "success",
+  "ru": "одобрение, лайк, хорошо, отлично, согласен, класс",
+  "en": "thumbs up, approval, good, great"
+ },
+ {
+  "emoji": "🎖️",
+  "file": "1f396.png",
+  "category": "success",
+  "ru": "медаль, награда, заслуга, достижение, признание",
+  "en": "medal, achievement, honor, merit"
+ },
+ {
+  "emoji": "🏅",
+  "file": "1f3c5.png",
+  "category": "success",
+  "ru": "медаль, награда, победа, признание, результат",
+  "en": "medal, award, recognition, win"
+ },
+ {
+  "emoji": "💯",
+  "file": "1f4af.png",
+  "category": "success",
+  "ru": "стопроцентно, идеально, максимум, на все сто",
+  "en": "hundred, perfect, on point, flawless"
+ },
+ {
+  "emoji": "✔️",
+  "file": "2714.png",
+  "category": "success",
+  "ru": "выполнено, готово, подтверждено, галочка, отметка, чек",
+  "en": "check, confirmed, done, correct"
+ },
+ {
+  "emoji": "🎓",
+  "file": "1f393.png",
+  "category": "success",
+  "ru": "диплом, выпуск, достижение, окончание учёбы, квалификация",
+  "en": "graduation, achievement, degree"
+ },
+ {
+  "emoji": "💔",
+  "file": "1f494.png",
+  "category": "failure",
+  "ru": "разбитое сердце, провал, разочарование, боль, потеря",
+  "en": "broken heart, failure, pain, loss"
+ },
+ {
+  "emoji": "🥀",
+  "file": "1f940.png",
+  "category": "failure",
+  "ru": "увядший цветок, конец, упадок, разочарование, угасание",
+  "en": "wilted flower, decline, fading"
+ },
+ {
+  "emoji": "😵",
+  "file": "1f635.png",
+  "category": "failure",
+  "ru": "нокаут, поражение, растерянность, крах, выбит из колеи",
+  "en": "knocked out, defeat, dazed, overwhelmed"
+ },
+ {
+  "emoji": "🤦",
+  "file": "1f926.png",
+  "category": "failure",
+  "ru": "фейспалм, разочарование, ну зачем, ошибка, досада",
+  "en": "facepalm, mistake, disappointment"
+ },
+ {
+  "emoji": "😬",
+  "file": "1f62c.png",
+  "category": "failure",
+  "ru": "неловкость, промах, ой, стыдно, неудобная ситуация",
+  "en": "cringe, awkward, oops, embarrassing"
+ },
+ {
+  "emoji": "🧩",
+  "file": "1f9e9.png",
+  "category": "idea",
+  "ru": "пазл, решение, часть системы, головоломка, недостающий элемент",
+  "en": "puzzle, solution, missing piece"
+ },
+ {
+  "emoji": "🔑",
+  "file": "1f511.png",
+  "category": "idea",
+  "ru": "ключ, решение, доступ, разгадка",
+  "en": "key, solution, access, breakthrough"
+ },
+ {
+  "emoji": "🗝️",
+  "file": "1f5dd.png",
+  "category": "idea",
+  "ru": "ключ, разгадка, доступ к решению, секрет успеха, найденный ответ",
+  "en": "old key, unlock, solution, secret"
+ },
+ {
+  "emoji": "🎨",
+  "file": "1f3a8.png",
+  "category": "idea",
+  "ru": "творчество, креатив, идея, вдохновение, художественный подход",
+  "en": "creativity, art, inspiration, design"
+ },
+ {
+  "emoji": "🧭",
+  "file": "1f9ed.png",
+  "category": "idea",
+  "ru": "ориентир, направление, стратегия, компас, курс",
+  "en": "compass, direction, strategy, course"
+ },
+ {
+  "emoji": "✏️",
+  "file": "270f.png",
+  "category": "learning",
+  "ru": "карандаш, писать, заметки, учёба, черновик",
+  "en": "pencil, writing, notes, draft"
+ },
+ {
+  "emoji": "🧑‍🎓",
+  "file": "1f9d1-200d-1f393.png",
+  "category": "learning",
+  "ru": "студент, учёба, выпускник, образование, курсант",
+  "en": "student, graduate, education"
+ },
+ {
+  "emoji": "📖",
+  "file": "1f4d6.png",
+  "category": "learning",
+  "ru": "чтение, открытая книга, изучение, знания, погружение в тему",
+  "en": "reading, open book, knowledge"
+ },
+ {
+  "emoji": "🔬",
+  "file": "1f52c.png",
+  "category": "learning",
+  "ru": "исследование, наука, эксперимент, изучение, лаборатория",
+  "en": "science, research, experiment, lab"
+ },
+ {
+  "emoji": "🧮",
+  "file": "1f9ee.png",
+  "category": "learning",
+  "ru": "счёты, вычисления, математика, расчёт, подсчёт",
+  "en": "abacus, calculation, math, counting"
+ },
+ {
+  "emoji": "🖊️",
+  "file": "1f58a.png",
+  "category": "learning",
+  "ru": "ручка, писать, подпись, заметки, конспектирование",
+  "en": "pen, writing, notes, signing"
+ },
+ {
+  "emoji": "📓",
+  "file": "1f4d3.png",
+  "category": "learning",
+  "ru": "тетрадь, конспект, записи, блокнот, дневник",
+  "en": "notebook, notes, journal, diary"
+ },
+ {
+  "emoji": "👨‍👩‍👧‍👦",
+  "file": "1f468-200d-1f469-200d-1f467-200d-1f466.png",
+  "category": "family",
+  "ru": "семья, родители с детьми, дом, близкие, семейные ценности",
+  "en": "family, parents and children, home"
+ },
+ {
+  "emoji": "👶",
+  "file": "1f476.png",
+  "category": "family",
+  "ru": "малыш, ребёнок, младенец, новорождённый, пополнение в семье",
+  "en": "baby, infant, newborn"
+ },
+ {
+  "emoji": "👵",
+  "file": "1f475.png",
+  "category": "family",
+  "ru": "бабушка, пожилая женщина, старшее поколение, мудрость, семейные традиции",
+  "en": "grandmother, elderly woman"
+ },
+ {
+  "emoji": "👴",
+  "file": "1f474.png",
+  "category": "family",
+  "ru": "дедушка, пожилой мужчина, старшее поколение, опыт, семейная мудрость",
+  "en": "grandfather, elderly man"
+ },
+ {
+  "emoji": "🏠",
+  "file": "1f3e0.png",
+  "category": "family",
+  "ru": "дом, семья, уют, домашний очаг, родные стены",
+  "en": "home, house, family, comfort"
+ },
+ {
+  "emoji": "👪",
+  "file": "1f46a.png",
+  "category": "family",
+  "ru": "семья, родители и ребёнок, ячейка общества, близкие люди, родные",
+  "en": "family, parents and child"
+ },
+ {
+  "emoji": "🤱",
+  "file": "1f931.png",
+  "category": "family",
+  "ru": "кормление, материнство, забота о ребёнке, младенчество, связь матери и ребёнка",
+  "en": "breastfeeding, motherhood, care"
+ },
+ {
+  "emoji": "🔫",
+  "file": "1f52b.png",
+  "category": "weapons",
+  "ru": "пистолет, оружие, огнестрельное, угроза, опасность",
+  "en": "gun, pistol, firearm, threat"
+ },
+ {
+  "emoji": "🗡️",
+  "file": "1f5e1.png",
+  "category": "weapons",
+  "ru": "меч, кинжал, клинок, оружие, холодное оружие",
+  "en": "dagger, sword, blade weapon"
+ },
+ {
+  "emoji": "👊",
+  "file": "1f44a.png",
+  "category": "violence",
+  "ru": "удар кулаком, драка, агрессия, конфликт, столкновение",
+  "en": "punch, fight, aggression, conflict"
+ },
+ {
+  "emoji": "💣",
+  "file": "1f4a3.png",
+  "category": "violence",
+  "ru": "бомба, взрыв, разрушение, атака, угроза",
+  "en": "bomb, explosion, attack, destruction"
+ },
+ {
+  "emoji": "✝️",
+  "file": "271d.png",
+  "category": "religion",
+  "ru": "крест, христианство, вера, религия, духовность",
+  "en": "cross, christianity, faith, religion"
+ },
+ {
+  "emoji": "🕌",
+  "file": "1f54c.png",
+  "category": "religion",
+  "ru": "мечеть, ислам, религия, вера, духовное место",
+  "en": "mosque, islam, faith, worship"
+ },
+ {
+  "emoji": "🏳️",
+  "file": "1f3f3.png",
+  "category": "flags",
+  "ru": "белый флаг, капитуляция, нейтралитет, перемирие, сдался",
+  "en": "white flag, surrender, truce"
+ },
+ {
+  "emoji": "🏴",
+  "file": "1f3f4.png",
+  "category": "flags",
+  "ru": "чёрный флаг, флаг, символ движения, знак, отметка территории",
+  "en": "black flag, flag, banner"
+ },
+ {
+  "emoji": "🔞",
+  "file": "1f51e.png",
+  "category": "adult",
+  "ru": "18+, возрастное ограничение, только для взрослых, контент 18 плюс, не для детей",
+  "en": "18+, adult only, age restriction"
+ },
+ {
+  "emoji": "💋",
+  "file": "1f48b.png",
+  "category": "adult",
+  "ru": "поцелуй, романтика, интим, флирт, страсть",
+  "en": "kiss, romance, intimacy, flirt"
+ },
+ {
+  "emoji": "🩺",
+  "file": "1fa7a.png",
+  "category": "medical",
+  "ru": "стетоскоп, врач, обследование, медицина, приём у доктора",
+  "en": "stethoscope, doctor, checkup, medical"
+ },
+ {
+  "emoji": "🚑",
+  "file": "1f691.png",
+  "category": "medical",
+  "ru": "скорая помощь, экстренная помощь, медицина, вызов врача, срочная госпитализация",
+  "en": "ambulance, emergency, medical help"
+ },
+ {
+  "emoji": "🗳️",
+  "file": "1f5f3.png",
+  "category": "politics",
+  "ru": "выборы, голосование, урна для голосования, политика, референдум",
+  "en": "ballot box, voting, election"
+ },
+ {
+  "emoji": "🏛️",
+  "file": "1f3db.png",
+  "category": "politics",
+  "ru": "правительство, парламент, власть, институт, госорган",
+  "en": "government, parliament, institution"
+ }
+]
